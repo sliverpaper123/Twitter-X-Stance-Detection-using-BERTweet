@@ -129,7 +129,7 @@ If you use this code, please cite our work:
   author={Singareddy, Anish Paul and Devireddy, Rishikesh and Sai, Akula Akshay},
   year={2024},
   publisher={GitHub},
-  howpublished={\url{https://github.com/username/twitter-stance-detection}}
+  howpublished={\url{https://github.com/sliverpaper123/twitter-stance-detection}}
 }
 ```
 
