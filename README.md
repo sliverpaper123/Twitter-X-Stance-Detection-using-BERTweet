@@ -119,6 +119,8 @@ result = tester.predict_single_text(
 | Recall    | 73%    |
 | F1-Score  | 74.51% |
 
+*train accuracy
+
 ## Citations
 
 If you use this code, please cite our work:
